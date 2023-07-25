@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Blog de Gatos é uma página para colocar em pratica alguns conehcimentos a respeito da estilização da página com o css, além é claro de colocar em palta um questionamento muito importante, os gatos são astronautas?
+O Blog de Gatos é uma página para colocar em pratica alguns conhecimentos a respeito da estilização da página com o css, utilizando animações e etc, além é claro de colocar em palta um questionamento muito importante, os gatos são astronautas?
 
 - [Acesse o projeto finalizado, online](https://guilhermeguimaraesn.github.io/Blog-Gatos_Rocketseat/)
 
